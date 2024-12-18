@@ -1,2 +1,7 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<svelte:head>
+	<script src="./criaring.js"></script>
+</svelte:head>
+welcome to criar.ing<br>
+home of the cria ring<br>
+<webring-css>
+</webring-css>
