@@ -1,5 +1,5 @@
 # criaring  
-the website at the start of the cria webring  
+the website at the start of the [cria webring](https://criar.ing)  
 
 ## how to join  
 dm me on discord (jusentari) or bluesky (@jusentari.com) so i can add you to the main list (criar.ing/webring.json)  
