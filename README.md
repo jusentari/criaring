@@ -1,38 +1,14 @@
-# sv
+# criaring  
+the website at the start of the cria webring  
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+## how to join  
+dm me on discord (jusentari) or bluesky (@jusentari.com) so i can add you to the main list (criar.ing/webring.json)  
+then add the criaring.js file from `static` to your website  
+or link like so: `<script src="https://criar.ing/criaring.js"></script>`  
+then add a `<webring-css></webring-css>` tag to your website somewhere  
+it is actively being developed so it definitely will change, so linking is probably better  
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+## code of conduct?  
+just dont be awful  
+i reserve the right to kick people out  
+if you get hacked i might also remove your site, just dm me if you get it figured out  
