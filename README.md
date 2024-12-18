@@ -12,3 +12,6 @@ it is actively being developed so it definitely will change, so linking is proba
 just dont be awful  
 i reserve the right to kick people out  
 if you get hacked i might also remove your site, just dm me if you get it figured out  
+
+## acknowledgements
+much of the design of criaring.js was inspired by this post: https://css-tricks.com/how-you-might-build-a-modern-day-webring/
