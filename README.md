@@ -2,7 +2,7 @@
 the website at the start of the [cria webring](https://criar.ing)  
 
 ## how to join  
-dm me on discord (jusentari) or bluesky (@jusentari.com) so i can add you to the main list (criar.ing/webring.json)  
+dm me on discord (jusentari) or bluesky (@criar.ing) so i can add you to the main list (criar.ing/webring.json)  
 then add the criaring.js file from `static` to your website  
 or link like so: `<script src="https://criar.ing/criaring.js"></script>`  
 then add a `<webring-css></webring-css>` tag to your website somewhere  
